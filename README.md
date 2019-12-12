@@ -19,7 +19,7 @@ Passen Sie die Unittests derart an, dass wieder alle Testfälle Sinn ergeben und
 ![alt text](./images/00-classdiagram.png "Klassendiagramm")
 
 
-Ist das Interface `IObservable` noch notwendig?
+Ist das Interface `IObserver` noch notwendig?
 
 Gäbe es Implementierungsalternativen und welche Vor- und Nachteile hätten diese?
 
